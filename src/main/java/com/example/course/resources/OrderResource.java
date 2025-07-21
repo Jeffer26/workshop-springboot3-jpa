@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController//essa classe é um recurso web que é implementada por um controlador Rest.
-@RequestMapping(value = "/Orders")//dar nome para o recurso.
+@RequestMapping(value = "/orders")//dar nome para o recurso.
 public class OrderResource {
 
     @Autowired

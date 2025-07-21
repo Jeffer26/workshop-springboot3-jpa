@@ -12,6 +12,7 @@ import java.util.Objects;
 @Table(name = "tb_user")
 public class User implements Serializable {
 
+
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
@@ -20,7 +21,7 @@ public class User implements Serializable {
     private String phone;
     private String password;
 
-    @JsonIgnore//para evitar loop
+    @JsonIgnore//evita looping na chamada
     @OneToMany(mappedBy = "client")
     private List<Order> orders = new ArrayList<>();
 
