@@ -36,5 +36,5 @@ cd backend
 ```
 # Autor
 
-Jefferson da Silva Vieira
-linkedin.com/in/jefferson-da-silva-vieira-a70b29160
+- Jefferson da Silva Vieira
+- linkedin.com/in/jefferson-da-silva-vieira-a70b29160
