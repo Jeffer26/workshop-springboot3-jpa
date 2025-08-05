@@ -26,8 +26,7 @@ Pré-requisitos: Java 11
 
 ```bash
 # clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
+https://github.com/Jeffer26/workshop-springboot3-jpa.git
 # entrar na pasta do projeto back end
 cd backend
 
