@@ -1,9 +1,8 @@
-# Big Game Survey 
+# Projeto backend com Spring Boot e JPA/Hibernate.
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/Jeffer26/workshop-springboot3-jpa/blob/main/LICENSE) 
 
 # Sobre o projeto
 
-Projeto backend com Spring Boot e JPA/Hibernate.
 Consiste na criação de uma aplicação backend, implementando modelo de domínio e seus relacionamentos, estruturação da camada do projeto com as camadas: resource, service e repositories.
 Configuração de banco de dados de teste no caso H2, povoar o banco de dados + criação de CRUD completo e tratamento de exceções.
 
